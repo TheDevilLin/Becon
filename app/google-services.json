@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "730462050186",
+    "firebase_url": "https://becon-c64d1.firebaseio.com",
+    "project_id": "becon-c64d1",
+    "storage_bucket": "becon-c64d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730462050186:android:928aa44b58063ff8",
+        "android_client_info": {
+          "package_name": "ncku.com.becon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730462050186-97m6oij5alqd0t7pshdjl5l6m4pcgjqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9_cd_S3DGyHDEyCi-MVcy8bMmj1dw2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
